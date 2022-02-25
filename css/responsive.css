@@ -1,0 +1,279 @@
+@media (max-width: 1250px) {
+  .area_withr_img .wrapper, .steps1 .wrapper, .contact .wrapper, .forslider .wrapper, .titlewb .wrapper, .content1 .wrapper, .numberarea .wrapper, .header .wrapper {
+    max-width: 900px; }
+  .numberarea .wrapper .headerimg1 {
+    max-width: 540px;
+    bottom: -70px; }
+  .numberarea .wrapper p {
+    font-size: 32px; }
+  .content1 {
+    padding-top: 50px;
+    padding-bottom: 50px; }
+  .content1 .wrapper h1 {
+    font-size: 50px;
+    padding-right: 250px; }
+  .content1 .wrapper h2 {
+    font-size: 27px; }
+  .content1 .wrapper p {
+    font-size: 18px; }
+  .titlewb .wrapper p {
+    font-size: 22px;
+    line-height: 25px; }
+  .forslider .wrapper .forslider_ins {
+    padding-left: 200px; }
+  .forslider .wrapper .forslider_ins .slick-initialized .box h3 {
+    font-size: 17px;
+    margin-bottom: 5px; }
+  .forslider .wrapper .forslider_ins .slick-initialized .slick-next {
+    min-width: 180px; }
+  .contact .wrapper .contact_cont {
+    padding-right: 400px; }
+  .contact .wrapper .contact_cont p {
+    font-size: 18px; }
+  .contact .wrapper .contact_cont form h2 {
+    font-size: 21px; }
+  .contact .wrapper .contact_cont .rside {
+    width: 300px; }
+    .contact .wrapper .contact_cont .rside img {
+      max-width: 100%; }
+  .contact .wrapper .contact_cont .rside .nom {
+    font-size: 28px; }
+  .steps1 .wrapper .type2 p, .steps1 .wrapper .type1 p {
+    font-size: 20px;
+    line-height: 28px; }
+  .steps1 .wrapper .steps {
+    display: block; }
+  .steps1 .wrapper .steps .stepsflx .ss {
+    height: unset; }
+  .footer {
+    margin-top: 0; }
+  .footer h2 {
+    font-size: 16px; }
+  .steps1 .wrapper .steps .stepsflx {
+    padding: 0 !important; }
+  .area_withr_img p {
+    font-size: 18px; }
+  .area_withr_img .withright_img_r .p_w_img1, .area_withr_img .withright_img .p_w_img1 {
+    max-width: 320px; }
+  .area_withr_img .withright_img {
+    padding-right: 420px; }
+  .area_withr_img .withright_img_r {
+    padding-left: 420px; }
+  .header {
+    min-height: 260px; }
+  .header .wrapper .mainlogo {
+    max-width: 300px; } }
+
+@media (max-width: 950px) {
+  .area_withr_img .wrapper, .steps1 .wrapper, .contact .wrapper, .forslider .wrapper, .titlewb .wrapper, .content1 .wrapper, .numberarea .wrapper, .header .wrapper {
+    max-width: 700px; }
+  .numberarea .wrapper .headerimg1 {
+    max-width: 450px;
+    bottom: -70px; }
+  .numberarea .wrapper p {
+    font-size: 26px; }
+  .contact .wrapper .contact_cont {
+    padding-right: 310px; }
+  .contact .wrapper .contact_cont .rside {
+    width: 240px; }
+  .content1 .wrapper .lineofbtn .tel {
+    display: none; } }
+
+@media (max-width: 720px) {
+  .titlewb .wrapper .tr {
+    text-align: center; }
+  .area_withr_img, .steps1, .contact, .forslider, .titlewb, .content1, .numberarea, .header {
+    padding-left: 10px;
+    padding-right: 10px; }
+    .area_withr_img .wrapper, .steps1 .wrapper, .contact .wrapper, .forslider .wrapper, .titlewb .wrapper, .content1 .wrapper, .numberarea .wrapper, .header .wrapper {
+      max-width: 400px; }
+  .header {
+    padding-top: 20px; }
+  .header {
+    min-height: 120px; }
+  .content1 .wrapper h1 img {
+    display: block;
+    position: relative;
+    top: unset;
+    transform: unset;
+    margin: auto;
+    max-width: 200px;
+    width: 100%; }
+  .header .wrapper .mainlogo {
+    max-width: 180px;
+    display: block;
+    margin: auto; }
+  .area_withr_img .withright_img_r {
+    padding: 0; }
+  .titlewb .wrapper .t_r {
+    text-align: center; }
+  .content1 .wrapper .btnp a {
+    text-align: center;
+    font-size: 16px; }
+  .titlewb .wrapper p .rs {
+    position: relative;
+    display: block;
+    margin: auto; }
+  .area_withr_img h1, .area_withr_img p, .area_withr_img .withright_img {
+    padding: 0;
+    text-align: center; }
+  .area_withr_img .withright_img_r .p_w_img1, .area_withr_img .withright_img .p_w_img1 {
+    display: block;
+    position: relative;
+    max-width: 250px;
+    margin: auto;
+    margin-top: 20px;
+    top: unset;
+    transform: unset; }
+  .slick-slider .slick-dots {
+    margin-bottom: 0; }
+  .area_withr_img .btn_a {
+    text-align: center; }
+    .area_withr_img .btn_a a {
+      font-size: 15px; }
+  .header .wrapper .rightlogos {
+    position: absolute;
+    right: 0;
+    top: 110px;
+    max-width: 180px;
+    left: 0;
+    margin: auto; }
+  .numberarea .wrapper .headerimg1 {
+    max-width: 450px;
+    bottom: -230px; }
+  .numberarea .wrapper p {
+    text-align: center; }
+  .numberarea .wrapper .headerimg1 {
+    max-width: 300px;
+    bottom: -130px;
+    left: 0;
+    right: 0;
+    margin: auto; }
+  .content1 {
+    padding-top: 120px;
+    padding-bottom: 40px; }
+  .content1 .wrapper h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 5px;
+    padding: 0; }
+  .content1 .wrapper h2 {
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 15px;
+    padding: 0; }
+  .content1 .wrapper p {
+    padding: 0;
+    text-align: center;
+    font-size: 14px; }
+  .titlewb .wrapper p {
+    font-size: 18px;
+    text-align: center; }
+  .titlewb {
+    padding-top: 15px;
+    padding-bottom: 15px; }
+  .forslider .wrapper .forslider_ins .imgslider {
+    display: none; }
+  .forslider .wrapper .forslider_ins {
+    padding-left: 0; }
+  .forslider .wrapper {
+    padding-bottom: 0; }
+  .contact .wrapper .contact_cont {
+    padding-right: 0; }
+  .contact .wrapper .contact_cont .rside {
+    width: 240px;
+    position: relative;
+    margin: auto;
+    margin-top: 70px; }
+  .contact .wrapper .contact_cont form {
+    text-align: center; }
+  .contact .wrapper .contact_cont form input {
+    text-align: center; }
+  .contact .wrapper .contact_cont p {
+    text-align: center; }
+  .steps1 .wrapper {
+    text-align: center; }
+  .steps1 .wrapper .steps .stepsflx .ss {
+    padding-left: 0; }
+  .steps1 .wrapper .steps .stepsflx .ss img {
+    position: relative;
+    left: unset;
+    top: unset;
+    transform: unset;
+    max-width: 60px; }
+  .steps1 .wrapper .type2 p .pforimg {
+    display: block;
+    padding: 0; }
+  .steps1 .wrapper .type2 p img {
+    margin: auto;
+    display: block;
+    margin-bottom: 15px; }
+  .steps1 .wrapper .type2 p .pforimg {
+    display: block;
+    width: 100%; }
+  .steps1 .wrapper .type2 p, .steps1 .wrapper .type1 p {
+    font-size: 16px;
+    line-height: normal; }
+  .footer h2 {
+    line-height: normal; }
+  .steps1 .wrapper .type1 .IntelvProLogo {
+    position: relative;
+    left: unset;
+    top: unset;
+    transform: unset;
+    margin: auto;
+    display: block;
+    margin-bottom: 15px; }
+  .steps1 .wrapper .type1 {
+    padding: 0; }
+  .forslider .wrapper .forslider_ins .slick-initialized .slick-slide {
+    padding-left: 5px;
+    padding-right: 5px; }
+  .steps1 .wrapper .type2 p img {
+    max-width: 80%; } }
+
+@media (max-width: 380px) {
+  .forslider .wrapper .forslider_ins .slick-initialized .slick-next {
+    display: none !important; }
+  .forslider .wrapper .forslider_ins .slick-initialized .box h3 {
+    margin-bottom: 15px; }
+  .forslider .wrapper .forslider_ins .slick-initialized .box {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto; }
+  .slick-slider .slick-prev, .slick-slider .slick-next {
+    display: none !important; }
+  .slick-slider .slick-dots {
+    padding: 0;
+    text-align: center;
+    margin-top: -20px; }
+    .slick-slider .slick-dots li {
+      display: inline-block;
+      font-size: 0; }
+      .slick-slider .slick-dots li button {
+        font-size: 0;
+        border: 0;
+        background: #d8d8d8;
+        border-radius: 20px;
+        width: 25px;
+        margin-left: 5px;
+        margin-right: 5px;
+        min-height: 7px;
+        margin-bottom: 30px; }
+    .slick-slider .slick-dots .slick-active button {
+      background: #1074ba; } }
+
+@media (max-width: 373px) {
+  .steps1, .contact, .forslider, .titlewb, .content1, .numberarea, .header {
+    padding-left: 10px;
+    padding-right: 10px; }
+    .steps1 .wrapper, .column, .contact .wrapper, .forslider .wrapper, .titlewb .wrapper, .content1 .wrapper, .numberarea .wrapper, .header .wrapper , .area_withr_img .wrapper .withright_img_rl .rlimag , .area_withr_img .wrapper .withright_img_r .p_w_img1{
+      max-width: 300px; } }
+      .steps1 .area_withr_img .wrapper .withright_img_rl .p_w_img1{
+        display: block;
+        position: relative;
+        margin: auto;
+        width: 300px;
+
+      }
+     
